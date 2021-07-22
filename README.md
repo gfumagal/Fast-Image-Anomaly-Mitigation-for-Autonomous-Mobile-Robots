@@ -1,5 +1,8 @@
 # Fast Image-Anomaly Mitigation for Autonomous Mobile Robots
 
+![Architecure layout](blob/arc.png)
+
+
 ## Abstract
 Camera anomalies like rain or dust can severely degrade image quality and its related tasks, such as localization and segmentation.   
 In this work we address this important issue by implementing a pre-processing step that can effectively mitigate such artifacts in a real-time fashion, thus supporting the deployment of autonomous systems with limited compute capabilities.
