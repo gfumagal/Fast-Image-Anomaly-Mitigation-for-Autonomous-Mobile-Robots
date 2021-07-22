@@ -5,5 +5,5 @@ Camera anomalies like rain or dust can severely degrade image quality and its re
 In this work we address this important issue by implementing a pre-processing step that can effectively mitigate such artifacts in a real-time fashion, thus supporting the deployment of autonomous systems with limited compute capabilities.
 We propose a shallow generator with aggregation, trained in an adversarial setting to solve the ill-posed problem of reconstructing the occluded regions.
 We add an enhancer to further preserve high-frequency details and image colorization.
-We also produce one of the largest publicly available datasets\footnote{The dataset will be made publicly available upon publication.} to train our architecture and use realistic synthetic raindrops to obtain an improved initialization of the model.
+We also produce one of the largest publicly available datasets to train our architecture and use realistic synthetic raindrops to obtain an improved initialization of the model.
 We benchmark our framework on existing datasets and on our own images obtaining state-of-the-art results while enabling real-time performance, with up to 40x faster inference time than existing approaches.
