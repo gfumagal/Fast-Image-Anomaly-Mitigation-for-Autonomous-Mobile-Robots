@@ -1,7 +1,7 @@
 # Fast Image-Anomaly Mitigation for Autonomous Mobile Robots
 Created by Gianmario Fumagalli, Yannick Huber, Marcin Dzymcyk, Roland Siegwart and Renaud Dubé.
 
-![Architecure layout](blob/arc.png)
+![Overview](blob/intro.png)
 
 
 ## Introduction
