@@ -4,7 +4,9 @@ Created by Gianmario Fumagalli, Yannick Huber, Marcin Dzymcyk, Roland Siegwart a
 ![Architecure layout](blob/arc.png)
 
 
-## Abstract
+## Introduction
+This work refers to our work, which will appear in IROS 2021. We proposed an architeture for image-anomaly mitigation which can perform in near-real-time.
+
 Camera anomalies like rain or dust can severely degrade image quality and its related tasks, such as localization and segmentation.   
 In this work we address this important issue by implementing a pre-processing step that can effectively mitigate such artifacts in a real-time fashion, thus supporting the deployment of autonomous systems with limited compute capabilities.
 We propose a shallow generator with aggregation, trained in an adversarial setting to solve the ill-posed problem of reconstructing the occluded regions.
