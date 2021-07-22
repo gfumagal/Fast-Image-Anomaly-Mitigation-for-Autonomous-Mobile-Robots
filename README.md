@@ -11,3 +11,6 @@ We propose a shallow generator with aggregation, trained in an adversarial setti
 We add an enhancer to further preserve high-frequency details and image colorization.
 We also produce one of the largest publicly available datasets to train our architecture and use realistic synthetic raindrops to obtain an improved initialization of the model.
 We benchmark our framework on existing datasets and on our own images obtaining state-of-the-art results while enabling real-time performance, with up to 40x faster inference time than existing approaches.
+
+## Dataset
+You can find our dataset here: ***link to dataset***
