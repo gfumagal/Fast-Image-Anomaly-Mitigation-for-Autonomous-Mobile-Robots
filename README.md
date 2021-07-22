@@ -15,4 +15,6 @@ We also produce one of the largest publicly available datasets to train our arch
 We benchmark our framework on existing datasets and on our own images obtaining state-of-the-art results while enabling real-time performance, with up to 40x faster inference time than existing approaches.
 
 ## Dataset
+![Dataset](blob/dataset.png)
+
 You can find our dataset here: ***link to dataset***
