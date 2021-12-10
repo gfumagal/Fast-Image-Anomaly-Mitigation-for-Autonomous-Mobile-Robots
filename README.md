@@ -5,7 +5,7 @@ Created by Gianmario Fumagalli, Yannick Huber, Marcin Dzymcyk, Roland Siegwart a
 
 
 ## Introduction
-This work refers to our work, which will appear in IROS 2021. We proposed an architeture for image-anomaly mitigation which can perform in near-real-time.
+This work refers to our work, which will appear in IROS 2021. We proposed an architecture for image-anomaly mitigation which can perform in near-real-time.
 
 Camera anomalies like rain or dust can severely degrade image quality and its related tasks, such as localization and segmentation.   
 In this work we address this important issue by implementing a pre-processing step that can effectively mitigate such artifacts in a real-time fashion, thus supporting the deployment of autonomous systems with limited compute capabilities.
@@ -17,4 +17,4 @@ We benchmark our framework on existing datasets and on our own images obtaining 
 ## Dataset
 ![Dataset](blob/dataset.png)
 
-You can find our dataset here: ***link to dataset***
+You can find our dataset here: https://drive.google.com/drive/folders/1ymtgOwofl1f2dTpigD2lSf8swTSU6J6q?usp=sharing
